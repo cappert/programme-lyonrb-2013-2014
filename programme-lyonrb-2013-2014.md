@@ -23,6 +23,7 @@ Ce document présente ce que propose la liste composée de Camille Appert et Mic
 * annonces des talks au moins 2 semaines à l'avance, idéalement annonce de certains talks au meetup précédent pour donner envie aux gens de revenir
 * video-recording des talks (rayonnement au delà de la sphère lyonnaise)
 * compte rendus des meetups (sous forme d'articles de blog, éventuellement avec photos de la soirée)
+* catégoriser les talks en essayant d'avoir une distribution homogène (débutant, expérimentés, inspirationnels, nouvelle techno, revue d'évènement, fiche de lecture, ...)
 
 #### Sponsoring
 
@@ -64,6 +65,10 @@ Possibilités :
 * meetups d'entrepreneurs (LCDW, La Cordée, incubateurs, ...)
 
 ## Rulu 2014
+
+## Autres évènements
+
+On peut également envisager d'organiser d'autres évènement. Certains déjà évoqués sont des Wine&Cheese, RubyBurgers, BBQs/pique-niques, workshops, install-parties, ...
 
 ## Gestion de l'association
 
