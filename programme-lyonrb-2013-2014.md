@@ -17,6 +17,8 @@ Ce document présente ce que propose la liste composée de Camille Appert et Mic
 * Lyon Tech Hub
 * Autres associations lyonnaises (Lyon.js, LCDW, ...)
 * Trouver un moyen de toucher les écoles
+* Autres communautés Ruby : SketchUp, MetaSploit, ...
+* GitHub (il y a 41 développeurs Ruby à Lyon, sur GitHub, on peut essayer de tous les contacter : https://github.com/search?l=Ruby&q=location%3ALyon&ref=searchresults&type=Users)
 
 #### Annonces
 
@@ -76,11 +78,18 @@ Possibilités :
 * autres meetups Ruby externes (Paris, Genève, Grenoble, Marseille, voire Londres, Amsterdam, Berlin, ...) pour échange de speakers
 * meetups d'entrepreneurs (LCDW, La Cordée, incubateurs, ...)
 
+Dans le cadre de ces partenariats, on peut également travailler notre propre représentation à l'extérieur (organiser des voyages vers des conférences, voire y aller en se faisant des t-shirts pour l'occasion, ou même envoyer des speakers ayant un bon talks à des meetups ou conferences externes).
+
+
 ## Rulu 2014
 
 ## Autres évènements
 
 On peut également envisager d'organiser d'autres évènement. Certains déjà évoqués sont des Wine&Cheese, RubyBurgers, BBQs/pique-niques, workshops, install-parties, contrib-session sur un projet OSS, ...
+
+Si, par exemple, on fait 1 meetup par mois, on peut peut-être aussi faire 1 workshop/formation/contrib-session par trimestre, ça me semble faisable, surout si c'est pour une école/fac en échange de sponsoring (ça se fait, ça ?).
+
+D'autre part, je me dit que les RubyBurger/BBQ/Wine&Cheese, ça peut se faire une fois par mois, en petit comité (bureau + comissions), ce qui nous permettrait de faire une réunion de suivi un peu à la cool, à la limite chez l'un d'entre nous (ndMike: moi je sais que je peux héberger ça, par exemple).
 
 ## Gestion de l'association
 
