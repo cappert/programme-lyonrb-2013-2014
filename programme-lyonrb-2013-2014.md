@@ -100,4 +100,14 @@ En changer, l'actuelle coûte trop cher
 
 ### Commissions
 
-Créer des commissions en charges des différents sujets.
+Créer des commissions en charges des différentes tâches :
+* Rulu
+* Association
+  * finance
+  * administratif
+* Meetups
+  * sponsors
+  * invités
+  * communication
+  * rapports (dont photos)
+  * vidéos
