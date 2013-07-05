@@ -18,7 +18,7 @@ Ce document présente ce que propose la liste composée de Camille Appert et Mic
 * Autres associations lyonnaises (Lyon.js, LCDW, ...)
 * Trouver un moyen de toucher les écoles
 * Autres communautés Ruby : SketchUp, MetaSploit, ...
-* GitHub (il y a 41 développeurs Ruby à Lyon, sur GitHub, on peut essayer de tous les contacter : https://github.com/search?l=Ruby&q=location%3ALyon&ref=searchresults&type=Users)
+* GitHub (il y a [41 développeurs Ruby à Lyon](https://github.com/search?l=Ruby&q=location%3ALyon&ref=searchresults&type=Users), sur GitHub, on peut essayer de tous les contacter)
 
 #### Annonces
 
