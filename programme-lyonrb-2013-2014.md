@@ -86,7 +86,7 @@ pour l'invitation de speakers externes, si on n'arrive pas à les faire sponsori
 
 ## Autres évènements
 
-On peut également envisager d'organiser d'autres évènement. Certains déjà évoqués sont des Wine&Cheese, RubyBurgers, BBQs/pique-niques, workshops, install-parties, contrib-session sur un projet OSS, ...
+On peut également envisager d'organiser d'autres évènement. Certains déjà évoqués sont des Wine&Cheese, [RubyBurgers](http://rubyburgers.github.io), BBQs/pique-niques, workshops, install-parties, contrib-session sur un projet OSS, ...
 
 Si, par exemple, on fait 1 meetup par mois, on peut peut-être aussi faire 1 workshop/formation/contrib-session par trimestre, ça me semble faisable, surout si c'est pour une école/fac en échange de sponsoring (ça se fait, ça ?).
 
