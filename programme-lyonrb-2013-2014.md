@@ -80,6 +80,7 @@ Possibilités :
 
 Dans le cadre de ces partenariats, on peut également travailler notre propre représentation à l'extérieur (organiser des voyages vers des conférences, voire y aller en se faisant des t-shirts pour l'occasion, ou même envoyer des speakers ayant un bon talks à des meetups ou conferences externes).
 
+pour l'invitation de speakers externes, si on n'arrive pas à les faire sponsoriser, on peut monter un système de cagnotte (Leetchi, Kickstarter, ...) pour payer leur billet.
 
 ## Rulu 2014
 
@@ -99,7 +100,7 @@ Les renouveler
 
 ### Site web
 
-Le refaire un intégrant peut-être les annonces, wishlist, comptes-rendus, etc...
+Le refaire en intégrant peut-être les annonces, wishlist, comptes-rendus, etc...
 Créer un logo et une charte graphique.
 Créer un blog.
 
