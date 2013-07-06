@@ -148,7 +148,8 @@ Créer des commissions en charges des différentes tâches :
   * administratif
 * Meetups
   * sponsors
-  * invités
-  * communication
-  * rapports (dont photos)
-  * vidéos
+  * partenariats
+  * annonces
+  * publicité
+    * rapports (dont photos)
+    * vidéos (enregistrement, montage, publication)
