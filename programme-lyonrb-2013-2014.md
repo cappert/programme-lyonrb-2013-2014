@@ -10,15 +10,17 @@ Ce document présente ce que propose la liste composée de Camille Appert et Mic
 
 #### Canaux
 
-* Meetup.com
-* Twitter
-* Facebook
-* Mailing-list
-* Lyon Tech Hub
-* Autres associations lyonnaises (Lyon.js, LCDW, ...)
+* [Site web](http://lyonrb.fr) (voir paragraphe "Site web")
+* [Meetup](http://www.meetup.com/Lyon-Ruby-Brigade)
+* [Twitter](https://twitter.com/lyonrb)
+* [Facebook](https://www.facebook.com/lyonrb)
+* [Mailing-list](https://groups.google.com/forum/#!forum/rubylyon)
+* Calendrier [Lyon Tech Hub](https://www.google.com/calendar/embed?src=ck2ruq6cqfch3t4gshbd6vdnd4@group.calendar.google.com)
+* [RailsFrance](http://www.railsfrance.org/evenements)
+* Autres associations lyonnaises (voir paragraphe "Partenariats")
 * Trouver un moyen de toucher les écoles
-* Autres communautés Ruby : SketchUp, MetaSploit, ...
-* GitHub (il y a [41 développeurs Ruby à Lyon](https://github.com/search?l=Ruby&q=location%3ALyon&ref=searchresults&type=Users), sur GitHub, on peut essayer de tous les contacter)
+* Autres communautés Ruby : [SketchUp](http://www.sketchup.com/intl/en/developer) (ils ont un [annuaire de developeurs](http://extensions.sketchup.com/developer)), [MetaSploit](http://www.metasploit.com), [Arduino](http://playground.arduino.cc/interfacing/ruby), ...
+* GitHub (il y a [41 développeurs Ruby à Lyon](https://github.com/search?l=Ruby&q=location%3ALyon&ref=searchresults&type=Users), on peut essayer de tous les contacter)
 
 #### Annonces
 
@@ -48,6 +50,10 @@ On peut leur proposer de sponsoriser :
 * boissons
 * billet pour inviter un speaker externe (voire avec Capitaine Train)
 
+Il nous faut une page sur le site pour promouvoir le sponsoring, à l'instar de [ce que fait Geneva.rb](http://www.meetup.com/genevarb/pages/Sponsor_us%21)
+
+On pourrait également maintenir un annuaire des entreprises qui font du Ruby sur Lyon, [comme le fait Barcelona on Rails](http://barcelonaonrails.com/companies) (ça permet à la fois aux développeurs de chercher un emploi / un client, de mettre en avant celles qui nous ont sponsorisé, et ça nous sert d'annuaire de prospection).
+
 #### Logistique
 
 Proposer des logements chez les adhérents aux gens qui viennent de loin, mais de façon publique (genre sur le site : "il reste 3 places chez des Rubyistes lyonnais, pour ceux qui viennent de loin, contactez-nous").
@@ -57,30 +63,55 @@ Proposer des logements chez les adhérents aux gens qui viennent de loin, mais d
 #### Lieu
 
 Au choix :
-* Cordée Charpennes
-* Cordée Liberté
-* L'Antre-Autre
+* [La Cordée Charpennes](http://www.la-cordee.net/la-cordee-charpennes)
+* [La Cordée Liberté](http://www.la-cordee.net/la-cordee-liberte-guillotiere)
+* [L'Antre-Autre](http://www.lantreautre.fr)
 * Bar/Pub
-* École (Epitech, INSA, ...)
-* Autre ?
+* École ([Epitech](http://www.epitech.eu/ecole-informatique-lyon-rhone-alpes), [INSA](http://www.insa-lyon.fr), ...)
+* Autre...
 
 #### Sortie
 
 Au choix :
 * Restaurant
 * Bar
-* Bar qui fait à manger (genre Gonzo Bar ou  Antre-Autre)
+* Bar qui fait à manger (genre [Gonzo Bar](http://gonzobarlyon.com) qui fait des hot-dogs ou  [Antre-Autre](http://www.lantreautre.fr) qui fait des tartines)
 
 #### Partenariats
 
-Possibilités :
-* autres meetups tech lyonnais (Lyon.js, LCDW, JUG Lyon, ...)
-* autres meetups Ruby externes (Paris, Genève, Grenoble, Marseille, voire Londres, Amsterdam, Berlin, ...) pour échange de speakers
-* meetups d'entrepreneurs (LCDW, La Cordée, incubateurs, ...)
+Il existe d'autres meetups/associations tech lyonnais(es) que l'on peut inviter à participer à nos meetups :
+* [Lyon.js](http://lyonjs.org)
+* [LCDW](http://www.lacuisineduweb.com)
+* [LyonJUG](http://www.lyonjug.org)
+* [Club Agile Rône-Alpes](http://lyon.clubagilerhonealpes.org) (CARA)
+* [OpenStack Rhône-Alpes](http://www.meetup.com/OpenStack-Rhone-Alpes)
+* [ALDIL](http://www.aldil.org)
+
+Il existe également d'autres meetups Ruby français, dont on peut inviter des speakers :
+* [Paris.rb](http://www.meetup.com/parisrb)
+* [Geneva.rb](http://genevarb.com) (ahem, pas français mais proche)
+* [Sainté.rb](http://www.meetup.com/sainte-rb)
+* [Pastis.rb](http://www.pastisrb.org) (Marseille)
+* ... encore d'autres groupes français sur 
+
+On peut également inviter des speakers d'autres meetups Ruby européens :
+* [London Ruby User Group](http://lrug.org)
+* [Amsterdam-rb](http://amsrb.org)
+* [Ruby User Group Berlin](http://berlin.onruby.de)
+* [Lausanne.br](http://www.lausannerb.ch)
+* [Barcelona on Rails](http://barcelonaonrails.com)
+
+Ou même des meetups d'entrepreneurs (souvent fréquentés par des gens techniques) :
+* [LCDW](http://www.lacuisineduweb.com)
+* [La Cordée](http://www.la-cordee.net)
+* incubateurs
+* [HumanTalks](http://humantalks.com/cities/lyon)
+
+D'une manière générale, on peut trouver des amis sur [RubyUserGroups](http://rubyusergroups.org), [Meetup](http://www.meetup.com), [RubyFrance](http://www.ruby-lang.org/fr/community/user-groups), ...
 
 Dans le cadre de ces partenariats, on peut également travailler notre propre représentation à l'extérieur (organiser des voyages vers des conférences, voire y aller en se faisant des t-shirts pour l'occasion, ou même envoyer des speakers ayant un bon talks à des meetups ou conferences externes).
 
-pour l'invitation de speakers externes, si on n'arrive pas à les faire sponsoriser, on peut monter un système de cagnotte (Leetchi, Kickstarter, ...) pour payer leur billet.
+Pour l'invitation de speakers externes, si on n'arrive pas à les faire sponsoriser, on peut monter un système de cagnotte (Leetchi, Kickstarter, ...) pour payer leur billet.
 
 ## Rulu 2014
 
