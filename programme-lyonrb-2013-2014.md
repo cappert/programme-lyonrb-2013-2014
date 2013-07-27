@@ -63,6 +63,7 @@ Proposer des logements chez les adhérents aux gens qui viennent de loin, mais d
 #### Lieu
 
 Au choix :
+
 * [La Cordée Charpennes](http://www.la-cordee.net/la-cordee-charpennes)
 * [La Cordée Liberté](http://www.la-cordee.net/la-cordee-liberte-guillotiere)
 * [L'Antre-Autre](http://www.lantreautre.fr)
@@ -73,6 +74,7 @@ Au choix :
 #### Sortie
 
 Au choix :
+
 * Restaurant
 * Bar
 * Bar qui fait à manger (genre [Gonzo Bar](http://gonzobarlyon.com) qui fait des hot-dogs ou  [Antre-Autre](http://www.lantreautre.fr) qui fait des tartines)
@@ -80,6 +82,7 @@ Au choix :
 #### Partenariats
 
 Il existe d'autres meetups/associations tech lyonnais(es) que l'on peut inviter à participer à nos meetups :
+
 * [Lyon.js](http://lyonjs.org)
 * [LCDW](http://www.lacuisineduweb.com)
 * [LyonJUG](http://www.lyonjug.org)
@@ -88,6 +91,7 @@ Il existe d'autres meetups/associations tech lyonnais(es) que l'on peut inviter 
 * [ALDIL](http://www.aldil.org)
 
 Il existe également d'autres meetups Ruby français, dont on peut inviter des speakers :
+
 * [Paris.rb](http://www.meetup.com/parisrb)
 * [Geneva.rb](http://genevarb.com) (ahem, pas français mais proche)
 * [Sainté.rb](http://www.meetup.com/sainte-rb)
@@ -95,6 +99,7 @@ Il existe également d'autres meetups Ruby français, dont on peut inviter des s
 * ... encore d'autres groupes français sur 
 
 On peut également inviter des speakers d'autres meetups Ruby européens :
+
 * [London Ruby User Group](http://lrug.org)
 * [Amsterdam-rb](http://amsrb.org)
 * [Ruby User Group Berlin](http://berlin.onruby.de)
@@ -102,6 +107,7 @@ On peut également inviter des speakers d'autres meetups Ruby européens :
 * [Barcelona on Rails](http://barcelonaonrails.com)
 
 Ou même des meetups d'entrepreneurs (souvent fréquentés par des gens techniques) :
+
 * [LCDW](http://www.lacuisineduweb.com)
 * [La Cordée](http://www.la-cordee.net)
 * incubateurs
@@ -142,6 +148,7 @@ En changer, l'actuelle coûte trop cher
 ### Commissions
 
 Créer des commissions en charges des différentes tâches :
+
 * Rulu
 * Association
   * finance
