@@ -24,8 +24,6 @@ Ce document présente ce que propose la liste composée de Camille Appert et Mic
 
 #### Annonces
 
-Mettre en place un système de wishlist (par GitHub) pour que tout le monde puisse demander un talk sur un sujet qui les intéresse, ce qui permet également de donner des idées aux développeurs expérimentés qui n'ont pas forcément d'idée de présentation.
-
 Annoncer les talks au moins 2 semaines à l'avance, idéalement annoncer certains talks/invités au meetup précédent pour donner envie aux gens de revenir.
 
 Catégoriser les talks en essayant d'avoir une distribution homogène (débutant, expérimentés, inspirationnels, nouvelle techno, revue d'évènement, fiche de lecture, ...).
