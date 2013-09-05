@@ -119,6 +119,8 @@ Pour l'invitation de speakers externes, si on n'arrive pas à les faire sponsori
 
 ## Rulu 2014
 
+_Section vide_
+
 ## Autres évènements
 
 On peut également envisager d'organiser d'autres évènement. Certains déjà évoqués sont des Wine&Cheese, [RubyBurgers](http://rubyburgers.github.io), BBQs/pique-niques, workshops, install-parties, contrib-session sur un projet OSS, ...
@@ -153,7 +155,7 @@ Créer des commissions en charges des différentes tâches :
   * administratif
 * Meetups
   * sponsors
-  * partenariats
+  * partenariats (Chris Dell a dit bien vouloir s'occuper des relations avec les autres meetups, à confirmer avec lui)
   * annonces
   * publicité
     * rapports (dont photos)
